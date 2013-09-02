@@ -1,0 +1,8 @@
+# To show the 10 last lines of file
+tail file
+
+# To show the n last lines of file
+tail -l n file
+
+# To show the n last bytes of file
+tail -b n file
